@@ -16,7 +16,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Black Friday Dataset from Kaggle to better understand:
+
 Question 1: Which User spent most during black Friday, list the top 20 spending users
+
 Question 2: How about the User Distribution by Age Group? And also consider Gender
 
 Question 3: Which products are most popular during Black Friday, list the top 20
